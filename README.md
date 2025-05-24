@@ -23,12 +23,12 @@ Você pode visualizar o material completo em HTML no seguinte link:
 
 ```
 introducao-R-nedur-ufpr/
-├── intro-R.Rmd           # Script principal em RMarkdown
-├── intro-R.html          # Versão navegável do material
-├── data/                 # Bases de dados de exemplo
-├── scripts/              # Scripts separados
-├── img/                  # Imagens e gráficos
-└── README.md             # Este arquivo
+├── README.md              # Arquivo com a apresentação do projeto
+├── LICENSE                # Licença MIT
+├── intro-R.R              # Script principal do curso
+├── data/                  # Bases de dados utilizadas
+│   ├── EXP_2019.csv
+│   └── EXP2019_ComexStat.xlsx
 ```
 
 ## 👥 Autoria
